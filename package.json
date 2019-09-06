@@ -1,5 +1,5 @@
 {
-  "name": "apply-updates",
+  "name": "@netrabbit/apply-updates",
   "version": "1.0.0",
   "description": "Run initialization functions in your Node.js application",
   "main": "index.js",
